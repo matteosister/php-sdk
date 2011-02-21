@@ -126,7 +126,8 @@ class Facebook
    */
   public static $DOMAIN_MAP = array(
     'api'      => 'https://api.facebook.com/',
-    'api_read' => 'https://api-read.facebook.com/',
+    //'api_read' => 'https://api-read.facebook.com/',
+    'api_read' => 'https://api.facebook.com/',
     'graph'    => 'https://graph.facebook.com/',
     'www'      => 'https://www.facebook.com/',
   );
